@@ -710,6 +710,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall
+-  [Maithri Suvarna](https://maithri-portfolio-amber.vercel.app)
 - [Manan Kanani (Full Stack Developer)](https://manankanani.in/)
 - [Masab Qurban](https://www.masabqurban.com/) [Software Engineer | Full Stack Developer]
 - [Milan Milanovic](https://milan.milanovic.org/)
