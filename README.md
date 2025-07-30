@@ -727,6 +727,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mahmoud Nabhan](https://mahmoudnabhan.com/)
 - [Mahmoud Zalt](https://zalt.me/) [Full-Stack Engineer | Software Architect | AI Engineer | Tech
   Consultant | Mentor]
+- [Maithri Suvarna](https://maithri-portfolio-amber.vercel.app/)
 - [Makechi Eric](https://love-makechi.web.app)
 - [Malay Patra](https://malaypatrav2.vercel.app) [Full Stack Developer ✨]
 - [Malik Muhammad Safwan](https://maliksafwan.netlify.app)
